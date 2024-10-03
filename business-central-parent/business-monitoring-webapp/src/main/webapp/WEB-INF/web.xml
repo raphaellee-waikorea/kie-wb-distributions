@@ -396,12 +396,12 @@ minutes. it is now 24 hours. -->
   </security-role>
 
   <security-role>
-    <description>REST user - Users with the rest-all role can access Business Central REST capabilities.</description>
+    <description>REST user - Users with the rest-all role can access Whiz Apollon REST capabilities.</description>
     <role-name>rest-all</role-name>
   </security-role>
 
   <security-role>
-    <description>REST project - Users with the rest-project role can access Business Central REST capabilities.</description>
+    <description>REST project - Users with the rest-project role can access Whiz Apollon REST capabilities.</description>
     <role-name>rest-project</role-name>
   </security-role>
 

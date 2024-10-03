@@ -28,7 +28,7 @@
 
 <body id="login">
 <div id="pfly-login-screen">
-  <img id="logo" src="images/business-central.png" alt="Business Central Logo" title="Powered By Drools/jBPM"/>
+  <img id="logo" src="images/business-central.png" alt="Whiz Apollon Logo" title="Since 2024, powered by W.A.I Co, Ltd"/>
 
   <div id="login-wrapper" class="png_bg">
     <div id="login-top">    

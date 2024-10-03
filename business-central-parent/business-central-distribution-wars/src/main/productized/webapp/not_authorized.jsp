@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="org.kie.bc.KIEWebapp/css/rcue.min.css">
     <link rel="stylesheet" href="org.kie.bc.KIEWebapp/css/rcue-additions.min.css">
     <link rel="shortcut icon" href="favicon.png" />
-    <title>Business Central</title>
+    <title>Whiz Apollon</title>
 </head>
 <body style="background-image: url(img/login-background.svg); background-position: top center; background-repeat: no-repeat; background-size: cover">
     <span id="badge">
@@ -34,7 +34,7 @@
         <div class="row">
             <div class="col-sm-12">
                 <div id="brand">
-                    <img style="height: auto" src="img/BC_Logo.png" alt="BUSINESS CENTRAL" title="BUSINESS CENTRAL"/>
+                    <img style="height: auto" src="img/BC_Logo.png" alt="Whiz Apollon" title="Whiz Apollon"/>
                 </div>
             </div>
             <div class="col-sm-7 col-md-6 col-lg-5 login">

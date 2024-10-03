@@ -39,7 +39,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
 
-    <title>Business Central</title>
+    <title>Whiz Apollon</title>
 
      <!--[if lt IE 9]>
      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
